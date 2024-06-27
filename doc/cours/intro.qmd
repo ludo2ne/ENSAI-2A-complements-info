@@ -49,12 +49,20 @@ Vous apporter les connaissances nécessaires pour mener à bien un projet inform
 - organiser votre code
 :::
 
+### Notions abordées
+
+- Versionnage avec git
+- Analyse fonctionnelle, génie logiciel
+- Programmation orientée objet avancée
+- Communication avec une base de données en python
+- Sécurité informatique
+- Communication client-serveur
+
 ### Les TP
 
-
-::: {.callout-tip title="But des TP"}
-Vous aider à comprendre ce qu'est un projet.
-:::
+- Settings VScode
+- Formateur, Linter
+- Open Folder
 
 
 :::{.notes}
@@ -79,4 +87,4 @@ Vous aider à comprendre ce qu'est un projet.
 
 ### Le projet info
 
-:construction: prez élèves -> lien vers le repo projet
+[Présentation du projet](https://ludo2ne.github.io/ENSAI-2A-Projet-info/doc/presentation-eleves.html){target="_blank"}

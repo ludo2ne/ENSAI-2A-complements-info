@@ -19,6 +19,9 @@ website:
         menu:
           - href: doc/cours/intro.qmd
             text: Introduction
+          - href: https://ludo2ne.github.io/Git-tuto/doc/presentation.html
+            text: Git
+            target: "_blank"
           - href: doc/cours/tests-unitaires.qmd
             text: Tests unitaires
       - text: TP
@@ -31,6 +34,9 @@ website:
             text: TP 3
           - href: doc/tp/tp4.qmd
             text: TP 4
+      - href: https://ludo2ne.github.io/ENSAI-2A-Projet-info/
+        text: Projet
+        target: "_blank"
     right:
       - icon: github
         href: "{{< meta var.url-repo >}}"
