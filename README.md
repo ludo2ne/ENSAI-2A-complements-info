@@ -2,16 +2,38 @@
 
 ## :construction: Todo
 
-- [ ] CM1 et TP1 :arrow_right: commencer par Git
-  - créer son répo projet
-  - pipeline basic
-- [ ] Logs
 - [ ] Projet Flask pour les démo en CM
-- unittest :arrow_right: pytest
+
+### CM 1
+
+- [x] Intro
+- [x] Projet
+- [x] Git
+- [ ] VScode : settings, linter, formater
+- [ ] qualité, pylint
+- [ ] Logs
+- [x] Analyse fonctionnelle
+- [x] WS
+
+## CM 2
+
+- [ ] DAO
+- [ ] CI
+- [ ] TU pytest, coverage
+- [ ] doc
+
+## TP
+
+- [ ] Commencer par Git
+- [ ] Refaire les branches
+
+## Biblio
+
+- https://ensae-reproductibilite.github.io/website/
 
 ## Publier les pages
 
-Site construit avec [Quarto](https://quarto.org/) - [Tuto](https://ludo2ne.github.io/Quarto-tuto/)
+Site construit avec [Quarto](https://quarto.org/) ([Tutoriel](https://ludo2ne.github.io/Quarto-tuto/))
 
 Pour générer les pages :
 
