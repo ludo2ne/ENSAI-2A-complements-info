@@ -31,11 +31,11 @@
 
 - https://ensae-reproductibilite.github.io/website/
 
-## Publier les pages
+## :rocket: Publier les pages
 
 Site construit avec [Quarto](https://quarto.org/) ([Tutoriel](https://ludo2ne.github.io/Quarto-tuto/))
 
 Pour générer les pages :
 
-- en local : `quarto render` (les pages sont crées dans le dossier *_site*)
+- en local : `quarto render` (les pages sont créées dans le dossier *_site*)
 - sur [GitHub](https://ludo2ne.github.io/ENSAI-2A-complements-info/) : voir fichier `.github/workflows/publish.yml`
